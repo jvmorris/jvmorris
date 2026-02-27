@@ -17,7 +17,7 @@
 [<img align="left" alt="Jevaughn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jevaughn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/jvmorris/
+[instagram]: https://www.instagram.com/jv.morris/
 [linkedin]: https://linkedin.com/in/jevmorris2
 
 <!--
