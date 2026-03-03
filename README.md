@@ -8,6 +8,10 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🖇️ Networking Projects</h2>
+
+- <b>Cisco Packet Tracer Labs</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 <h2>💻 Software Development Projects</h2>
 <h2>📜 Certifications</h2>
 
