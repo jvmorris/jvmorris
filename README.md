@@ -10,7 +10,7 @@
 <h2>🖇️ Networking Projects</h2>
 
 - <b>Cisco Packet Tracer Labs</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [LAN, VLAN, and Routing Scenarios (PCs, Switches, Routers)](https://github.com/jvmorris/Cisco-Packet-Tracer-Labs)
   - 
 <h2>💻 Software Development Projects</h2>
 <h2>📜 Certifications</h2>
