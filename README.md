@@ -4,9 +4,8 @@
 
 <h2>🔒 Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>Work in Progress</b>
+  
 <h2>🖇️ Networking Projects</h2>
 
 - <b>Cisco Packet Tracer Labs</b>
@@ -14,7 +13,12 @@
 
   
 <h2>💻 Software Development Projects</h2>
+
+- <b>Work in Progress</b>
+
 <h2>📜 Certifications</h2>
+
+- <b>Work in Progress</b>
 
 <h2> 🤳 Connect with me:</h2>
 
