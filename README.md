@@ -28,8 +28,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Jevaughn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jevaughn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jevaughn | LinkedIn" width="30px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6" />][linkedin]
+[<img align="left" alt="Jevaughn | Instagram" width="30px" src="https://img.icons8.com/fluency-systems-regular/48/E4405F/instagram-new--v1.png" />][instagram]
 
 [instagram]: https://www.instagram.com/jv.morris/
 [linkedin]: https://linkedin.com/in/jevmorris2
